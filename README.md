@@ -1,7 +1,6 @@
 # Free webservices
 
-
-## Nudity check
+## Nudity image checker
 
 Check if an image contains nudity, by scanning each pixels and seaching for pixels that might indicate nudity - using advanced algoritm.
 
